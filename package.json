@@ -1,6 +1,6 @@
 {
   "name": "kobo-backup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backup your Kobo device bookmarks, highlights, etc.",
   "bin": "index.js",
   "scripts": {

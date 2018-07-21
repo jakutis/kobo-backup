@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var sqlite3 = require('sqlite3');
 var path = require('path');
 var fs = require('fs');

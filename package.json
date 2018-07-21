@@ -1,0 +1,31 @@
+{
+  "name": "kobo-backup",
+  "version": "1.0.0",
+  "description": "Backup your Kobo device bookmarks, highlights, etc.",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakutis/kobo-backup.git"
+  },
+  "keywords": [
+    "kobo",
+    "backup",
+    "ereader",
+    "epub",
+    "e-reader",
+    "bookmarks",
+    "highlights"
+  ],
+  "author": "Vytautas Jakutis <vytautas@jakut.is> (https://jakut.is)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakutis/kobo-backup/issues"
+  },
+  "homepage": "https://github.com/jakutis/kobo-backup#readme",
+  "dependencies": {
+    "sqlite3": "^4.0.2"
+  }
+}
